@@ -1,0 +1,10 @@
+node_modules/
+.vscode/
+yarn-error.log
+npm-debug.log
+alias.sh
+package-lock.json
+requests.http
+test.js
+src/config/app.json
+src/config/config.json

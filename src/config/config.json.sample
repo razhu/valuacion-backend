@@ -1,0 +1,15 @@
+{
+  "adapter": {
+    "username": "agetic",
+    "password": "agetic",
+    "database": "conciliacion",
+    "host": "localhost",
+    "dialect": "postgres",
+    "pool": {
+      "max": 5,
+      "min": 0,
+      "idle": 10000
+    }
+  },
+  "puerto": 4000
+}
